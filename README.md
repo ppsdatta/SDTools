@@ -1,7 +1,7 @@
 # SDTools
 A set of tools built with Smalltalk (Squeak + Morphic)
 
-## A very simple Kanban board
+## 1. A very simple Kanban board
 
 It consists of the following classes - `Card`, `Lane`, `Board`, `BoardStore` and a `BoardCollection`.
 
