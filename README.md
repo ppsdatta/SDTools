@@ -14,3 +14,4 @@ Each time you make a change to a Board, the image needs to be saved in order for
 
 Issues: No scrollable lanes! If it grows too long it will not be visible any more. Also, no moving cards across boards as of now.
 
+![Kanban board screenshot](https://github.com/ppsdatta/SDTools/blob/main/Screenshot%202021-06-12%20at%203.42.28%20PM.png)
